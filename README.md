@@ -1,7 +1,7 @@
 ## Sterting project
 Clone repository 
 ```bash
-git clone https://github.com/your-repo/DjangoCookie.git
+git clone https://github.com/MonkeysTower/DjangoCookie.git
 cd DjangoCookie
 ```
 
